@@ -1,0 +1,124 @@
+{
+    "language": "English",
+    "lessons": [
+      {
+        "lessonTitle": "Greetings and Introductions",
+        "questions": [
+          {
+            "questionType": "translation",
+            "question": "Translate 'Hello' to English.",
+            "correctAnswer": "Hello"
+          },
+          {
+            "questionType": "multipleChoice",
+            "question": "Which phrase means 'Goodbye'?",
+            "answerOptions": ["Hola", "Au revoir", "Goodbye"],
+            "correctAnswer": "Au revoir"
+          },
+          {
+            "questionType": "listening",
+            "question": "Listen to the audio and write the word you hear: 'Thank you'.",
+            "correctAnswer": "Thank you"
+          },
+          {
+            "questionType": "matching",
+            "question": "Match the greeting with its meaning.",
+            "answerOptions": [
+              {"term": "Bonjour", "definition": "Good morning"},
+              {"term": "Buenas noches", "definition": "Good evening"},
+              {"term": "Hola", "definition": "Hello"}
+            ],
+            "correctAnswer": [
+              {"term": "Bonjour", "definition": "Good morning"},
+              {"term": "Buenas noches", "definition": "Good evening"},
+              {"term": "Hola", "definition": "Hello"}
+            ]
+          },
+          {
+            "questionType": "speaking",
+            "question": "Speak the word for 'cat'.",
+            "correctAnswer": "cat"
+          },
+          {
+            "questionType": "multipleChoice",
+            "question": "Which picture shows a boy?",
+            "answerOptions": [
+              {"image": "boy.jpg", "label": "Boy"},
+              {"image": "girl.jpg", "label": "Girl"},
+              {"image": "car.jpg", "label": "Car"}
+            ],
+            "correctAnswer": {"image": "boy.jpg", "label": "Boy"}
+          } 
+        ]
+      },
+      {
+        "lessonTitle": "Numbers and Counting",
+        "questions": [
+          {
+            "questionType": "multipleChoice",
+            "question": "What is the English word for '3'?",
+            "answerOptions": ["Three", "Uno", "Deux"],
+            "correctAnswer": "Three"
+          },
+          {
+            "questionType": "writing",
+            "question": "Write the English word for '7'.",
+            "correctAnswer": "Seven"
+          },
+          {
+            "questionType": "listening",
+            "question": "Listen to the audio and write the number you hear: '5'.",
+            "correctAnswer": "5"
+          },
+          {
+            "questionType": "matching",
+            "question": "Match the numeral with its word representation.",
+            "answerOptions": [
+              {"term": "4", "definition": "Four"},
+              {"term": "8", "definition": "Eight"},
+              {"term": "10", "definition": "Ten"}
+            ],
+            "correctAnswer": [
+              {"term": "4", "definition": "Four"},
+              {"term": "8", "definition": "Eight"},
+              {"term": "10", "definition": "Ten"}
+            ]
+          },
+          {
+            "questionType": "speaking",
+            "question": "Speak the word for 'eleven'.",
+            "correctAnswer": "eleven"
+          },
+          {
+            "questionType": "translation",
+           "question": "Translate 'cat' to English.",
+            "correctAnswer": "cat"
+          },
+          {
+            "questionType": "listening",
+            "question": "Listen to the audio and write the word you hear: 'apple'.",
+            "correctAnswer": "apple"
+          },
+          {
+            "questionType": "matching",
+            "question": "Match the animal with its name.",
+            "answerOptions": [
+              {"term": "dog", "image": "dog.jpg"},
+              {"term": "cat", "image": "cat.jpg"},
+              {"term": "bird", "image": "bird.jpg"}
+            ],
+            "correctAnswer": [
+              {"term": "dog", "image": "dog.jpg"},
+              {"term": "cat", "image": "cat.jpg"},
+              {"term": "bird", "image": "bird.jpg"}
+            ]
+          },
+          {
+            "questionType": "speaking",
+            "question": "Speak the word for 'tree'.",
+            "correctAnswer": "tree"
+          }
+        ]
+      }
+    ]
+  }
